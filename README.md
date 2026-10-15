@@ -333,8 +333,8 @@ In [`stripe_provider.py`](backend/src/saas/billing/stripe_provider.py), webhook 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vltech55/support-saas.git
-   cd support-saas-main
+   git clone https://github.com/Samyak-Gajghate/groundtruth
+   cd groundtruth-main
    ```
 
 2. **Configure environment variables**:
